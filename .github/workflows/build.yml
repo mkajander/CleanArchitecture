@@ -17,6 +17,8 @@ on:
         required: true
         default: false
 
+  workflow_dispatch:
+
 jobs:
   build:
 
